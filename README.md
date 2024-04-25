@@ -100,7 +100,7 @@
 <!-- Languages -->
 <h3 align="center">Top Languages 🌟</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaani07 alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaani07" alt="Top Languages" />
 </p>
 
 <!-- GitHub Trophies -->
